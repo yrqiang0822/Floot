@@ -67,7 +67,7 @@
 	.top .header .nav ul li input{
 		margin-top:12px;
 		border: none;
-		background-image: url(images/search-icon.jpg);
+		background-image: url(../images/search-icon.jpg);
 		width: 18px;
 		height: 15px;
 	}
